@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is ♡ 𝚔𝚒𝚗𝚐 🕊♡ User",
-      "value":" ♡ 𝚔𝚒𝚗𝚐 ♡,
+      "value":" ♡ king ♡,
       "required": false
     },
     "ALIVE_MSG": {

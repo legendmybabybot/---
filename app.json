@@ -1,7 +1,7 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "♡ 𝚔𝚒𝚗𝚐 🕊♡",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ ♡ 𝚔𝚒𝚗𝚐 🕊♡. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/523ab48eff164ecd64c5e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,22 +10,22 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": " https://github.com/The-LegendBot/LEGENDUSERBOT.git/",
+  "website": " https://github.com/The-LegendBot/LEGENDUSERBOT.git/",
+  "success_url": "https://t.me/king_user_bot_op",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "description": "Fill your Full name. By default it is ♡ 𝚔𝚒𝚗𝚐 🕊♡ User",
+      "value":" ♡ 𝚔𝚒𝚗𝚐 🕊♡,
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "♡ 𝚔𝚒𝚗𝚐 🕊♡ Bøtis Online",
       "required": false
     },
     "ABUSE": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "𝙸 𝚊𝚖 ♡ 𝚔𝚒𝚗𝚐 🕊♡.",
       "required": true
     },
     "PM_PIC": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑♡ 𝚔𝚒𝚗𝚐 🕊♡ẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -140,8 +140,8 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+    "KING_STRING": {
+      "description": "Get this value by running https://repl.it/@jaiswal_king_aj/kingBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {

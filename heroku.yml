@@ -1,4 +1,4 @@
-build:
+build: current
   docker:
       worker: Dockerfile
 run:
